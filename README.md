@@ -2,3 +2,8 @@
 
 ### This repository has the codes written for the worksheets, assignments for the course named
 ### CMPE 261 in Istanbul Bilgi University, 2018-19 Fall 
+
+#### This course includes materials which written in:
+- Java
+- C++
+- Python
